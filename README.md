@@ -6,8 +6,7 @@ Follow this guide for setting up OpenGL on your system
 
 1. **GLFW** (for creating a window and OpenGL context):
     - Download the source code from [GLFW's website](https://www.glfw.org/download.html).
-  
-        ![alt text](https://github.com/[abraham-vijai]/[Setting-Up-OpenGL]/blob/[main]/glfw.png?raw=true)
+        ![Model](https://raw.githubusercontent.com/abraham-vijai/Setting-Up-OpenGL/refs/heads/main/glfw.png?token=GHSAT0AAAAAAC252RSGPCCSLDNBVJGU3D3KZ6LJ6GA)
         
 2. **GLM** (OpenGL Mathematics library, optional but recommended):
     - Download from [GLM's GitHub](https://github.com/g-truc/glm).
@@ -55,7 +54,7 @@ Follow this guide for setting up OpenGL on your system
     ```
     
 
-![alt text](https://github.com/[abraham-vijai]/[Setting-Up-OpenGL]/blob/[main]/properties.png?raw=true)
+    ![Model](https://raw.githubusercontent.com/abraham-vijai/Setting-Up-OpenGL/refs/heads/main/properties.png?token=GHSAT0AAAAAAC252RSGNYRSMXJA2CFXN2RSZ6LJ5UA)
 
 ## Copy the source code
 
